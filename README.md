@@ -1,8 +1,6 @@
 # TRINS: Towards Multimodal Language Models that Can Read
 *Ruiyi Zhang, Yanzhe Zhang, Jian Chen,  Yufan Zhou, Jiuxiang Gu, Changyou Chen, Tong Sun*
 
-[Project Page](https://llavar.github.io/trins/)
-
 [Paper Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Ganz_Towards_Models_that_Can_See_and_Read_ICCV_2023_paper.pdf)
 
 [UPDATE 06/21] Text-rich Images Release.
