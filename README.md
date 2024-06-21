@@ -2,7 +2,8 @@
 *Ruiyi Zhang, Yanzhe Zhang, Jian Chen,  Yufan Zhou, Jiuxiang Gu, Changyou Chen, Tong Sun*
 
 [Project Page](https://llavar.github.io/trins/)
-[Paper]([https://arxiv.org/abs/2306.17107](https://openaccess.thecvf.com/content/ICCV2023/papers/Ganz_Towards_Models_that_Can_See_and_Read_ICCV_2023_paper.pdf))
+
+[Paper Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Ganz_Towards_Models_that_Can_See_and_Read_ICCV_2023_paper.pdf)
 
 [UPDATE 06/21] Text-rich Images Release.
 
