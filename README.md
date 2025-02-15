@@ -3,7 +3,7 @@
 
 [Paper Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Ganz_Towards_Models_that_Can_See_and_Read_ICCV_2023_paper.pdf)
 
-[Updated Version accepted by COLING 2025](https://github.com/llavar/LLaVAR-2), Please check LLaVAR-2 for more details, including data and models.
+LLaVAR-2 [Updated Version accepted by COLING 2025](https://github.com/llavar/LLaVAR-2), Please check LLaVAR-2 for more details, including data and models.
 
 ```
 @inproceedings{zhang2024trins,
